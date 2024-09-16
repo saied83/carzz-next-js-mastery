@@ -41,7 +41,7 @@ const Footer = () => {
         <p>
           @2023 Carzz. &copy;
           <Link href={"https://youtu.be/pUNSHPyVryU?si=FoAJnzvyD92sBvQK"}>
-            JS Mastery
+            Followed from JS Mastery
           </Link>
         </p>
         <div className="footer__copyrights-link">
